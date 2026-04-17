@@ -41,7 +41,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            B.Tech student specializing in AI, ML, and software development. Proficient in Python with experience in data analysis, automation, and model development. Skilled in NumPy, Pandas, TensorFlow, PyTorch, and Scikit-learn, with strong problem-solving and engineering-focused analytical abilities.
+            Motivated B.Tech student specializing in AI, ML, and software development. Proficient in Python with experience in data analysis, automation, and model development. Skilled in NumPy, Pandas, TensorFlow, PyTorch, and Scikit-learn, with strong problem-solving and engineering-focused analytical abilities.
           </p>
           {/* Resume Button */}
           <a
